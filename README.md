@@ -18,12 +18,12 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Java and S
 2. Compile the `TicTacToe.java` file.
 3. Run the compiled class file.
 
-## Compile
+### Compile
 
 ```sh
 javac TicTacToe.java
 ```
-## Run
+### Run
 
 
 
