@@ -18,7 +18,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Java and S
 2. Compile the `TicTacToe.java` file.
 3. Run the compiled class file.
 
-### Compile
+## Compile
 
 ```sh
 javac TicTacToe.java
@@ -45,15 +45,15 @@ java TicTacToe
 - The `checkWinner` method checks for a win or tie after each move.
 - The `resetGame` method resets the board and other game variables for a new round.
 - The `updateScore` and `updateScoreLabel` methods handle the scoring system.
-## Screenshots
-**Initial Screen**
+## **Screenshots**
+### Initial Screen
 ![App Screenshot](Screenshots/idle.png)
 
-**Player O Wins**
-![App Screenshot](https://drive.google.com/file/d/1-3LO-BuaWBwe3GbEuEIOcZ3ZnM7nh_dj/view?usp=drive_link)
+### Player O Wins
+![App Screenshot](Screenshots/winner.png)
 
-**Tie Game**
-![App Screenshot](https://drive.google.com/file/d/1GqUPIjEHBW-YBI-i6Kh79YXJ8_LzLwhw/view?usp=drive_link)
+### Tie Game
+![App Screenshot](Screenshots/tie.png)
 ## License
 
 This project is open source and available under the [MIT License](https://choosealicense.com/licenses/mit/)
