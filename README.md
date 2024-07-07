@@ -25,7 +25,7 @@ javac TicTacToe.java
 ```
 ## Run
 
-Clone the project
+
 
 ```bash
 java TicTacToe
