@@ -47,7 +47,7 @@ java TicTacToe
 - The `updateScore` and `updateScoreLabel` methods handle the scoring system.
 ## Screenshots
 **Initial Screen**
-![App Screenshot](https://drive.google.com/file/d/1TJSCE2u1rSw-Qvu5PWyNnSOs20YPDyvQ/view?usp=drive_link)
+![App Screenshot](Screenshots/idle.png)
 
 **Player O Wins**
 ![App Screenshot](https://drive.google.com/file/d/1-3LO-BuaWBwe3GbEuEIOcZ3ZnM7nh_dj/view?usp=drive_link)
